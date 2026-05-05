@@ -5,7 +5,6 @@
 
 A JavaScript VM disassembler for hCaptcha's MotionData — built for learning.
 
-![Educational](https://img.shields.io/badge/purpose-educational-blue)
 ![Status](https://img.shields.io/badge/status-outdated-orange)
 ![JavaScript](https://img.shields.io/badge/language-javascript-green)
 
